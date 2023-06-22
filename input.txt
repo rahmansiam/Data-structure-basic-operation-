@@ -1,0 +1,6 @@
+6
+siam 333 90
+sifat 222 80
+sapon 111 90
+siam 333 95
+sifat 222 85
